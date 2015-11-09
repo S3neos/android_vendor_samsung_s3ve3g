@@ -12,6 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Audio
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/hw/audio.primary.msm8226.so:system/blobs/s3ve3gds/lib/hw/audio.primary.msm8226.so
+
 # Qualcomm framework
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/vendor/lib/libdiag.so:system/blobs/s3ve3gds/vendor/lib/libdiag.so \
