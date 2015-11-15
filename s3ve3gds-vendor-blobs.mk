@@ -32,18 +32,15 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/bin/qmuxd:system/blobs/s3ve3gds/bin/qmuxd \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/bin/radish:system/blobs/s3ve3gds/bin/radish \
-    $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/bin/rild:system/blobs/s3ve3gds/bin/rild \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/bin/rmt_storage:system/blobs/s3ve3gds/bin/rmt_storage \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libatparser.so:system/blobs/s3ve3gds/lib/libatparser.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libcordon.so:system/blobs/s3ve3gds/lib/libcordon.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libfactoryutil.so:system/blobs/s3ve3gds/lib/libfactoryutil.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libomission_avoidance.so:system/blobs/s3ve3gds/lib/libomission_avoidance.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libreference-ril.so:system/blobs/s3ve3gds/lib/libreference-ril.so \
-    $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libsecnativefeature.so:system/blobs/s3ve3gds/lib/libsecnativefeature.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libsecril-client.so:system/blobs/s3ve3gds/lib/libsecril-client.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libsec-ril.so:system/blobs/s3ve3gds/lib/libsec-ril.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libsec-ril-dsds.so:system/blobs/s3ve3gds/lib/libsec-ril-dsds.so \
-    $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libril.so:system/blobs/s3ve3gds/lib/libril.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/librilutils.so:system/blobs/s3ve3gds/lib/librilutils.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/vendor/lib/libconfigdb.so:system/blobs/s3ve3gds/vendor/lib/libconfigdb.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/vendor/lib/libril-qcril-hook-oem.so:system/blobs/s3ve3gds/vendor/lib/libril-qcril-hook-oem.so \
