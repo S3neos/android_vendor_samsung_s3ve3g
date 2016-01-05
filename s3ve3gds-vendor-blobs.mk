@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/bin/qmuxd:system/blobs/s3ve3gds/bin/qmuxd \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/bin/radish:system/blobs/s3ve3gds/bin/radish \
-    $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/bin/rmt_storage:system/blobs/s3ve3gds/bin/rmt_storage \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libatparser.so:system/blobs/s3ve3gds/lib/libatparser.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libcordon.so:system/blobs/s3ve3gds/lib/libcordon.so \
     $(LOCAL_PATH)/proprietary/blobs/s3ve3gds/lib/libfactoryutil.so:system/blobs/s3ve3gds/lib/libfactoryutil.so \
